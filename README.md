@@ -1,1 +1,2 @@
 # programowanie
+Bruno Olewski
