@@ -11,10 +11,10 @@ int main(){
 
 	cout<<endl;
 
-	cout << "czynniki pierwsze: " << endl;
+	cout<<"czynniki pierwsze: "<<endl;
 	for (int b = 2; liczba > 1; ++b) {
 		while (liczba % b == 0) {
-		cout << b << " ";
+		cout<<b<< " ";
 		liczba /= b;
 		}
 	}
