@@ -5,7 +5,7 @@ void generujLiczbyPierwsze(int iloscLiczbPierwszych) {
     int znalezioneLiczby = 0;
     int liczba = 2;
 
-    cout << "Generowanie " << iloscLiczbPierwszych << " pierwszych liczb pierwszych:" << endl;
+    cout << "Generowanie " << iloscLiczbPierwszych << " liczb pierwszych:" << endl;
 
     while (znalezioneLiczby < iloscLiczbPierwszych) {
         bool jestPierwsza = true;
